@@ -1,0 +1,1 @@
+This project provides a comprehensive system for managing recipe data,including the ability to create, view, edit, and delete recipes. It demonstrates the fundamental operations of a CRUD application for recipe management using Django, typically used in web applications for organizing and maintaining recipe collections.
